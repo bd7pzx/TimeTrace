@@ -1,0 +1,16 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "TimeTrace - 倒数日与累计日追踪器"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "TimeTrace"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "TimeTrace"
+    }
+  ]
+}
